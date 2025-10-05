@@ -1,14 +1,14 @@
 # Project-Design
 
-##Team 14
+## Team 14
 
-###Balintongog, Vincent
+### Balintongog, Vincent
 
-###Buduan, Aaron Christian
+### Buduan, Aaron Christian
 
-###Dayrit, Kristian
+### Dayrit, Kristian
 
-###Espiritu, Hailey Jane
+### Espiritu, Hailey Jane
 
-###Garcia, John Carlos M.
+### Garcia, John Carlos M.
 
